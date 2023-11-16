@@ -1,0 +1,176 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: whitesmoke;
+}
+.divone{
+    width: 1348px;
+    height: 225px;
+    border-radius: none;
+    background-color: #00a884;
+    position: relative;
+}
+.div{
+    background-color: white;
+    box-shadow: 1px 3px 3px 3px lightslategray;
+    width: 850px;
+    height: 1000px;
+    position: absolute;
+    top: 95px;
+    margin-left: 180px;
+    font-size: 16px;
+    line-height: 16px;
+    padding: 64px 60px 60px;
+    border-radius: 4px;
+}
+.wat{
+    font-size: 14px;
+    color: white;
+    line-height: normal;
+    vertical-align: middle;
+    margin-left: 230px;
+    position: relative;
+    font-weight: 600;
+}
+.image{
+    
+    position: relative;
+    left: 180px;
+    top: 30px;
+}
+.di{
+    border: 0.1px solid rgb(190, 188, 188);
+    height: 110px;
+    width: 790px;
+    position: relative;
+    bottom: 20px;
+    left: 25px;
+    border-radius: 3px;
+}
+
+.image2{
+    position: relative;
+    top: 30px;
+    left: 40px;
+}
+
+.downlo{
+    position: relative;
+    left: 145px;
+    bottom: 20px;
+    font-size: large;
+    color: rgb(51, 51, 51);
+
+}
+
+.get{
+    position: relative;
+    left: 145px;
+    bottom: 13px;
+    font-size: small;
+    color: rgb(80, 79, 79);
+}
+
+button{
+    background-color: #017561;
+    height: 40px;
+    width: 130px;
+    position: relative;
+    left: 620px;
+    bottom: 50px;
+    border-radius: 20px;
+    border: 1px solid green;
+    color: white;
+    font-size: small;
+    
+}
+
+.use{
+    font-size: 28px;
+    color: rgb(100, 100, 100);
+    font-weight: 100;
+    position: relative;
+    top: 30px;
+    right: 20px;
+}
+
+.list{
+    position: relative;
+    top: 90px;
+    left: 10px;
+    font-size: large;
+    color: rgb(100, 100, 100);
+    
+}
+
+li{
+     margin-bottom: 30px;
+}
+
+strong{
+    font-weight: 600;
+}
+
+.img{
+    position: relative;
+    top: 5px;
+    left: 3px;
+}
+
+.code{
+    position: relative;
+    bottom: 220px;
+    left: 600px;
+}
+
+hr{
+    position: relative;
+    width: 860px;
+    bottom: 160px;
+}
+
+.link{
+    color: #00a884;
+    position: relative;
+    bottom: 100px;
+    font-size: large;
+}
+.dee{
+    width: 970px;
+    height: 425px;
+    border-radius: none;
+    background-color: whitesmoke;
+    position: relative;
+    right: 60px;
+    top: 10px;
+
+}
+a{
+    text-decoration: none;
+}
+.tuto{
+    position: relative;
+    text-align: center;
+    top: 50px;
+    font-size: x-large;
+    color: rgb(110, 110, 110);
+}
+.need{
+    position: relative;
+    text-align: center;
+    margin-left: 400px;
+    left: 40px;
+    top: 70px;
+    font-size: large;
+    color: #008069;
+}
+.vid{
+    position: relative;
+    bottom: 300px;
+    left: 150px;
+}
